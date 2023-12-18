@@ -3,7 +3,6 @@
 👨‍🎓 __ITMO University 4th year student__
 
   *Information Technologies and Programming Faculty*
-  _____
   
   :incoming_envelope: __contact me:__
 
