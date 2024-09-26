@@ -1,7 +1,7 @@
 #### 👋 Hi there, My name is Guskov Egor
 
-👨‍🎓 ITMO University bachelor
-  *Information Technologies and Programming Faculty*
+👨‍🎓 ITMO University bachelor   
+  *Information Technologies and Programming Faculty*   
 📍 St.Petersburg, Russia
   
   :incoming_envelope: __contact me:__
