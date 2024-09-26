@@ -1,6 +1,6 @@
 #### 👋 Hi there, My name is Guskov Egor
 
-👨‍🎓 __ITMO University 4th year student__
+👨‍🎓 ITMO University bachelor
 
   *Information Technologies and Programming Faculty*
   
