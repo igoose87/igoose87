@@ -1,6 +1,6 @@
-#### 👋 Hi there, My name is Guskov Egor
+#### 👋 Hi, My name is Egor
 
-Fullstack developer   
+I am a fullstack developer
 TypeScript/JavaScript, NestJS, React
 
 👨‍🎓 ITMO University bachelor   
