@@ -1,9 +1,6 @@
-#### Hi, My name is Egor
-
-I am a React developer
+Software Engeneer | React developer
 
 ITMO University bachelor   
 St.Petersburg, Russia
   
 telegram: @igoose87
-____
