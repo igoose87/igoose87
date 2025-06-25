@@ -1,7 +1,6 @@
 #### Hi, My name is Egor
 
-I am a fullstack developer
-TypeScript/JavaScript, NestJS, React
+I am a React developer
 
 ITMO University bachelor   
 St.Petersburg, Russia
