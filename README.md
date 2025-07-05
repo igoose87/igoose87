@@ -1,4 +1,4 @@
-Software Engineer | React developer
+Software Engineer
 
 ITMO University bachelor   
 St.Petersburg, Russia
