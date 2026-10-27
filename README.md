@@ -1,6 +1,6 @@
-Software Engineer
-
-ITMO University bachelor   
-St.Petersburg, Russia
+Software engineer at Nexign
+ITMO University graduate
+Software engineering bachelor
+Product management master
   
 telegram: @igoose87
